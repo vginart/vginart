@@ -23,26 +23,26 @@
 
 ### Coursework  
 **Columbia University (MAFN)**  
-- Advanced Machine Learning for Finance:contentReference[oaicite:4]{index=0} 
-- Modeling & Trading Derivatives:contentReference[oaicite:4]{index=1} 
-- Programming for Quantitative & Computational Finance:contentReference[oaicite:4]{index=2} 
-- Quantitative Methods in Investment Management:contentReference[oaicite:1]{index=3}
-- Numerical Methods in Finance:contentReference[oaicite:3]{index=4}  
-- Stochastic Processes – Applications:contentReference[oaicite:2]{index=5}
-- Stochastic Methods in Finance:contentReference[oaicite:5]{index=6}  
-- Introduction to the Mathematics of Finance:contentReference[oaicite:0]{index=7}  
+- Advanced Machine Learning for Finance
+- Modeling & Trading Derivatives
+- Programming for Quantitative & Computational Finance
+- Quantitative Methods in Investment Management
+- Numerical Methods in Finance  
+- Stochastic Processes – Applications
+- Stochastic Methods in Finance
+- Introduction to the Mathematics of Finance 
   
 
 **Sacred Heart University (B.S. Mathematics & Computer Science)**  
-- Data Structures & Algorithms:contentReference[oaicite:6]{index=8}
-- Linear Algebra & Probability:contentReference[oaicite:10]{index=9}
-- Applied Machine Learning:contentReference[oaicite:9]{index=10}
-- Differential Equiations:contentReference[oaicite:9]{index=11}
-- Operating Systems:contentReference[oaicite:7]{index=12}  
-- Database Systems:contentReference[oaicite:8]{index=13}  
-- Programming Paradigms:contentReference[oaicite:10]{index=14}
-- Real Analysis:contentReference[oaicite:10]{index=15}
-- Physics:contentReference[oaicite:10]{index=16}
+- Data Structures & Algorithms
+- Linear Algebra & Probability
+- Applied Machine Learning
+- Differential Equiations
+- Operating Systems
+- Database Systems 
+- Programming Paradigms
+- Real Analysis
+- Physics
 
   
 <h3 align="left">Connect with me:</h3>
