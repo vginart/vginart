@@ -2,7 +2,7 @@
 
 **MA Mathematics (Finance specialization) at Columbia University**  
 
-- 🌱 I’m currently learning **AWS, C#**  
+- 🌱 I’m currently learning **AWS, C++**
 
 
 ---
