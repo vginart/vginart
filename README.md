@@ -2,14 +2,15 @@
 
 **MA Mathematics (Finance specialization) at Columbia University**  
 
-- 🌱 I’m currently learning **AWS, C++**
+- 🌱 I’m currently learning **C++, AWS**
 
 
 ---
 
 ### Publications  
+- **Arbitrage-free Implied Volatility Surface Smoothing via Generative Adversarial Networks** – *ICAIF 2025*  
 - **Adversarially Enhanced Financial Misinformation: A Comparative Analysis of LLM- vs. GAN-Generated Content Exposing AI Moderation Vulnerabilities** – *AIRC 2025*  
-  [Link to Publication](https://ieeexplore.ieee.org/document/11077509)  
+  [Link to Publication](https://ieeexplore.ieee.org/document/11077509)
 
 ---
 
