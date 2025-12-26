@@ -1,6 +1,6 @@
 # Hi 👋, I'm Victor Ginart Belmonte  
 
-**MA Mathematics (Finance specialization) at Columbia University**  
+**MA Mathematics (Finance specialization) at Columbia University; BS in Mathematics, Computer Science at Sacred Heart University**  
 
 - 🌱 I’m currently learning **C++, AWS**
 
