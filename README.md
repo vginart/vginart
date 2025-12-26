@@ -8,7 +8,8 @@
 ---
 
 ### Publications  
-- **Arbitrage-free Implied Volatility Surface Smoothing via Generative Adversarial Networks** – *ICAIF 2025*  
+- **Arbitrage-free Implied Volatility Surface Smoothing via Generative Adversarial Networks** – *ICAIF 2025*
+[Link to Publication](https://dl.acm.org/doi/full/10.1145/3768292.3771252)
 - **Adversarially Enhanced Financial Misinformation: A Comparative Analysis of LLM- vs. GAN-Generated Content Exposing AI Moderation Vulnerabilities** – *AIRC 2025*  
   [Link to Publication](https://ieeexplore.ieee.org/document/11077509)
 
