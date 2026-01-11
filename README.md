@@ -2,7 +2,7 @@
 
 **MA Mathematics (Finance specialization) at Columbia University; BS in Mathematics, Computer Science at Sacred Heart University**  
 
-- 🌱 I’m currently learning **C++, AWS**
+- 🌱 I’m currently learning **C++**
 
 
 ---
