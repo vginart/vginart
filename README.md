@@ -1,6 +1,6 @@
 ## Victor Ginart Belmonte
 
-I hold a **Master's in Mathematics of Finance from Columbia University** with a background in **Mathematics and Computer Science**. My interests focus on **capital markets, fixed income, derivatives, and quantitative analytics** for trading, portfolio monitoring, and risk analysis.
+I hold a **Master’s in Mathematics of Finance from Columbia University** and a **Bachelor’s degree in Mathematics and Computer Science from Sacred Heart University**.My interests focus on **capital markets, fixed income, derivatives, and quantitative analytics** for trading, portfolio monitoring, and risk analysis.
 
 I have experience building analytical tools and models in Python to support market research, pricing, and scenario analysis, and I am particularly interested in roles that sit at the intersection of markets, analytics, and execution.
 
@@ -34,12 +34,6 @@ I have experience building analytical tools and models in Python to support mark
 
 ---
 
-### Interests
-
-Golf (+1 Handicap), Poker, Fitness, Chess
-
----
-
 ### Coursework  
 **Columbia University (MAFN)**  
 - Advanced Machine Learning for Finance
@@ -62,6 +56,13 @@ Golf (+1 Handicap), Poker, Fitness, Chess
 - Programming Paradigms
 - Real Analysis
 - Physics
+
+
+---
+
+### Interests
+
+Golf (+1 Handicap), Poker, Fitness, Chess
 
   
 <h3 align="left">Connect with me:</h3>
