@@ -1,8 +1,27 @@
-# Hi 👋, I'm Victor Ginart Belmonte  
+## Victor Ginart Belmonte
 
-**MA Mathematics (Finance specialization) at Columbia University; BS in Mathematics, Computer Science at Sacred Heart University**  
+I am a graduate student in **Mathematics of Finance at Columbia University** with a background in **Mathematics and Computer Science**. My interests focus on **capital markets, fixed income, derivatives, and quantitative analytics** for trading, portfolio monitoring, and risk analysis.
 
-- 🌱 I’m currently learning **C++**
+I have experience building analytical tools and models in Python to support market research, pricing, and scenario analysis, and I am particularly interested in roles that sit at the intersection of markets, analytics, and execution.
+
+
+---
+
+## Market & Analytics Experience
+
+- Fixed income pricing and curve construction models  
+- Derivatives modeling and volatility surface analysis  
+- Portfolio risk, P&L, and scenario analysis  
+- Quantitative research and data-driven market analysis  
+
+
+---
+
+## Technical Skills
+
+- **Programming:** Python, SQL (working knowledge of C++)  
+- **Tools:** Bloomberg, Excel, data analysis libraries  
+- **Focus Areas:** Capital markets, fixed income, derivatives, quantitative analytics  
 
 
 ---
@@ -13,13 +32,12 @@
 - **Adversarially Enhanced Financial Misinformation: A Comparative Analysis of LLM- vs. GAN-Generated Content Exposing AI Moderation Vulnerabilities** – *AIRC 2025*  
   [Link to Publication](https://ieeexplore.ieee.org/document/11077509)
 
+
 ---
 
-### Hobbies  
-- 🏌️ Golf 
-- ♦️Poker
-- 💪 Fitness
-- ♟️ Chess
+## Interests
+
+Golf (+1 Handicap), Poker, Fitness, Chess
 
 ---
 
