@@ -7,7 +7,7 @@ I have experience building analytical tools and models in Python to support mark
 
 ---
 
-## Market & Analytics Experience
+### Market & Analytics Experience
 
 - Fixed income pricing and curve construction models  
 - Derivatives modeling and volatility surface analysis  
@@ -17,7 +17,7 @@ I have experience building analytical tools and models in Python to support mark
 
 ---
 
-## Technical Skills
+### Technical Skills
 
 - **Programming:** Python, SQL (working knowledge of C++)  
 - **Tools:** Bloomberg, Excel, data analysis libraries  
@@ -29,13 +29,12 @@ I have experience building analytical tools and models in Python to support mark
 ### Publications  
 - **Arbitrage-free Implied Volatility Surface Smoothing via Generative Adversarial Networks** – *ICAIF 2025*
 [Link to Publication](https://dl.acm.org/doi/full/10.1145/3768292.3771252)
-- **Adversarially Enhanced Financial Misinformation: A Comparative Analysis of LLM- vs. GAN-Generated Content Exposing AI Moderation Vulnerabilities** – *AIRC 2025*  
-  [Link to Publication](https://ieeexplore.ieee.org/document/11077509)
+- **Adversarially Enhanced Financial Misinformation: A Comparative Analysis of LLM- vs. GAN-Generated Content Exposing AI Moderation Vulnerabilities** – *AIRC 2025*  [Link to Publication](https://ieeexplore.ieee.org/document/11077509)
 
 
 ---
 
-## Interests
+### Interests
 
 Golf (+1 Handicap), Poker, Fitness, Chess
 
