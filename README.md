@@ -1,6 +1,6 @@
 ## Victor Ginart Belmonte
 
-I am a graduate student in **Mathematics of Finance at Columbia University** with a background in **Mathematics and Computer Science**. My interests focus on **capital markets, fixed income, derivatives, and quantitative analytics** for trading, portfolio monitoring, and risk analysis.
+I hold a **Master's in Mathematics of Finance from Columbia University** with a background in **Mathematics and Computer Science**. My interests focus on **capital markets, fixed income, derivatives, and quantitative analytics** for trading, portfolio monitoring, and risk analysis.
 
 I have experience building analytical tools and models in Python to support market research, pricing, and scenario analysis, and I am particularly interested in roles that sit at the intersection of markets, analytics, and execution.
 
