@@ -9,19 +9,20 @@ I have experience building analytical tools and models in Python to support mark
 
 ### Market & Analytics Experience
 
+- Quantitative research and data-driven market analysis  
 - Fixed income pricing and curve construction models  
 - Derivatives modeling and volatility surface analysis  
 - Portfolio risk, P&L, and scenario analysis  
-- Quantitative research and data-driven market analysis  
+  
 
 
 ---
 
 ### Technical Skills
 
-- **Programming:** Python, SQL (working knowledge of C++)  
+- **Programming:** Python, SQL, (currently learning C++)  
 - **Tools:** Bloomberg, Excel, data analysis libraries  
-- **Focus Areas:** Capital markets, fixed income, derivatives, quantitative analytics  
+- **Focus Areas:** Quantitative analytics, machine learning, 
 
 
 ---
